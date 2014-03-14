@@ -1,0 +1,20 @@
+
+$jumbotron-bg: #3498db;
+$body-bg:	#ecf0f1;
+$navbar-default-bg: #2c3e50;
+$navbar-height: 60px;
+$navbar-default-link-color: white;
+$brand-primary: #e67e22;
+$carousel-text-shadow: 0 1px 2px rgba(0,0,0,.6);
+$font-family-sans-serif: 'optima';
+$navbar-default-brand-color: #c0392b;
+
+@import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
